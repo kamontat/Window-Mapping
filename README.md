@@ -14,6 +14,7 @@ Key mapping for Mac user who use window, but want key as mac
 - exit by:
   1. press `Ctrl+Shift+Q`
   2. on toolbar (Right+bottom of TaskBar) will have running program, so you can exit them by right click
+  3. If still not exit or some error occurred, use `Task Manager` to exit them
 
 # Developer
 ## Precondition 
