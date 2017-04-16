@@ -1,4 +1,4 @@
-# Window-Mapping
+f# Window-Mapping
 Key mapping for Mac user who use window, but want key as mac
 
 # Implementation
@@ -22,4 +22,7 @@ Key mapping for Mac user who use window, but want key as mac
 2. read docs clearly [link](https://autohotkey.com/docs/AutoHotkey.htm)
 3. try to run simple command [link](https://autohotkey.com/docs/Tutorial.htm#s12)
 ## Develop
-Implement every want you wanted. 
+Implement everything want you wanted. 
+
+## Error/Issue
+- report to me at https://github.com/kamontat/Window-Mapping/issues
