@@ -24,11 +24,12 @@ SetIcon(true)
 SetCapsLockState, off
 
 ; swap
-LWin::Ctrl ; change window key to cmd
-RWin::Ctrl ; change window key to cmd
-Ctrl::LWin ; change ctrl to window key
+LWin::LCtrl ; change left window key to cmd
+RWin::RCtrl ; change right window key to cmd
+LCtrl::LWin ; change left ctrl to window key
+RCtrl::RWin ; change right ctrl to window key
 
-; search file
+; search file (alt+space)
 ; VK53 is `s` key
 !Space::
 	ifWinActive, Search
