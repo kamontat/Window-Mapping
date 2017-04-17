@@ -8,7 +8,7 @@
 3. สามารถกด <kbd>command</kbd> + <kbd>space</kbd> เพื่อ ค้นหา ไฟล์หรือโฟรเดอร์ (Spotlight)
 
 # สำหรับผู้ใช้ทั่วไป
-- คุณจะเจอเวอร์ชั่นล่าสุดได้ที่ [link](https://github.com/kamontat/Window-Mapping/releases/latest) **หรือ** คุณสามารถโหลดเวอร์ชั่นล่าสุดได้ที่ [ดาวน์โหลด](https://github.com/kamontat/Window-Mapping/raw/master/remapping_key.exe) ลิงค์ (แต่การดาวน์โหลดแบบนี้อาจจะทำให้ได้เวอร์ชั่นที่ไม่เสถียรได้)
+- คุณจะเจอเวอร์ชั่นล่าสุดได้ที่ [link](https://github.com/kamontat/Window-Mapping/releases/latest) **หรือ** คุณสามารถโหลดเวอร์ชั่นล่าสุดได้ที่ [ดาวน์โหลด](https://github.com/kamontat/Window-Mapping/raw/master/production/remapping_key.exe) ลิงค์ (แต่การดาวน์โหลดแบบนี้อาจจะทำให้ได้เวอร์ชั่นที่ไม่เสถียรได้)
 - คุณสามารถรันโปรแกรมได้โดย คลิกไปที่โปรแกรม (จะมี *การแจ้งเตือน* บอกว่ารัน version อะไรอยู่) 
 - มีหลากหลายวิธีที่จะออกจากโปรแกรม (ปล. การออกจากโปรแกรมอาจจะมีช่วงเวลาในการออก โปรดรอซักครู่):
   1. กด <kbd>control</kbd> + <kbd>shift</kbd> + <kbd>q</kbd> เทื่อออก เมื่อออกเสร็จแล้วจะมี *การแจ้งเตือน*
@@ -18,7 +18,7 @@
   
 # สำหรับนักพัฒนา
 ## เงื่อนไขก่อนพัฒนา
-1. ต้องลงโปรแกรม [AutoHotKey](https://github.com/kamontat/Window-Mapping/blob/master/AutoHotkey_1.1.25.01_setup.exe) ก่อน หรือ หาจากเว็บที่  https://autohotkey.com/
+1. ต้องลงโปรแกรม [AutoHotKey](https://github.com/kamontat/Window-Mapping/blob/master/library/AutoHotkey_1.1.25.01_setup.exe) ก่อน หรือ หาจากเว็บที่  https://autohotkey.com/
 2. อ่าน document ให้แน่ชัด [link](https://autohotkey.com/docs/AutoHotkey.htm)
 3. ลองโหลดโปรแกรมธรรมดามารันก่อนว่าได้ไหม [SimpleApp](https://autohotkey.com/docs/Tutorial.htm#s12)
 
