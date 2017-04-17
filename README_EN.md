@@ -4,7 +4,7 @@ Key mapping for Mac user who use window, but want key as mac
 # Implementation
 1. swap between (<kbd>command</kbd> / <kbd>window_key</kbd>) and <kbd>control</kbd>
 2. Make <kbd>Caps Lock</kbd> can change language
-3. <kbd>command</kbd> + <kbd>space</kbd>
+3. <kbd>command</kbd> + <kbd>space</kbd> for searching (Spotlight)
 
 # Normal Person
 - You can found latest version at [link](https://github.com/kamontat/Window-Mapping/releases/latest) **or** easiest download latest version by click [download](https://github.com/kamontat/Window-Mapping/raw/master/remapping_key.exe) link (but this may contains **beta** version)
